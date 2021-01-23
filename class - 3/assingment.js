@@ -12,7 +12,7 @@ and if we think a variable named x;
 ++x equals to x = x+1
 */
 
-let x = 5;
+// let x = 5;
 
 /*
 
