@@ -1,10 +1,11 @@
 # In class 5 we have discuss about for, while & do-while loops of javascript
 
-<h2><span style="color:red;">In real life projects, you will use 'for' & 'while' loop the most</span></h2>
+```diff
+- In real-life projects you will use 'for' and 'while' loop the most.
+```
 
 ### For loop syntax
 
-##### in general you should write variableName = i
 
 ``` javascript
 for ( /* variable; condition;; step;*/ let variableName = 0; variableName < 100; variableName++) {
