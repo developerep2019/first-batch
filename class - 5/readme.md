@@ -4,24 +4,20 @@
 
 ##### in general you should write variableName = i
 
-```javascript
+``` javascript
+for ( /* variable; condition;; step;*/ let variableName = 0; variableName < 100; variableName++) {
+    //your code block here
+    console.log(variableName)
 
-    for(/* variable; condition;; step;*/ let variableName = 0; variableName < 100; variableName++) {
-        //your code block here
-        console.log(variableName)
-        
-    }
-
-
+}
 ```
 
 ## While loop syntax
 
-```javascript
-
+``` javascript
 let variableName = 0;
 
-while(/*condition*/ variableName < 100) {
+while ( /*condition*/ variableName < 100) {
     //your code block here
     console.log(variableName)
 
@@ -31,15 +27,12 @@ while(/*condition*/ variableName < 100) {
 
 ## Do-while loop syntax 
 
-```javascript
-
+``` javascript
 let variableName = 0;
 do {
     //your code block here
+    console.log(variableName)
     variableName++
 }
-while(condition)
-
-
-
+while ( /*condition*/ variableName < 100 > )
 ```
