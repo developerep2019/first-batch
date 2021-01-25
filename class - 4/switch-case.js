@@ -4,12 +4,13 @@
 //if the data is a mod, we will show "welcome moderator"
 //otherwise we will show "unknown user";
 
-const role = 'admin';
+const role = 'guest';
 
 switch(role) {
     case 'guest' : 
         console.log('welcome guest')
         break;
+        
 
     case 'mod' : 
         console.log("welcome Moderator");
