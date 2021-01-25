@@ -2,21 +2,31 @@
 
 ## For loop syntax
 
+##### in general you should write variableName = i
+
 ```javascript
 
-    for(/* variable; condition;; step; */) {
+    for(/* variable; condition;; step;*/ let variableName = 0; variableName < 100; variableName++) {
         //your code block here
+        console.log(variableName)
+        
     }
 
 
 ```
 
 ## While loop syntax
-**let variableName = 0**
 
-`while(condition) {
-    hello world
-    your code block here
+```javascript
+
+let variableName = 0;
+
+while(/*condition*/ variableName < 100) {
+    //your code block here
+    console.log(variableName)
+
     variableName++
-};`
+}
 
+
+```
