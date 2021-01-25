@@ -5,7 +5,8 @@ for(variable; condition; steps) { <br/>
     <br/>
     <br/>
     <br/>
-}
+};
+<br/>
 <br/>
 //while loop structure
 <br/>
@@ -17,4 +18,4 @@ while(condition) {
     <br/>
     <br/>
     variableName++
-}
+};
