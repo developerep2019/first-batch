@@ -2,20 +2,15 @@
 
 ## For loop syntax
 
-for(variable; condition; steps) { <br/>
+`for(variable; condition; steps) { <br/>
     your code block here
-    <br/>
-    <br/>
-    <br/>
-};
+};`
+
 ## While loop syntax
 **let variableName = 0**
 
-while(condition) {
-    <br/>
+`while(condition) {
     your code block here
-    <br/>
-    <br/>
     variableName++
-};
+};`
 
