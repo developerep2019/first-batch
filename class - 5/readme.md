@@ -34,5 +34,5 @@ do {
     console.log(variableName)
     variableName++
 }
-while ( /*condition*/ variableName < 100 > )
+while (/*condition*/ variableName < 100)
 ```
