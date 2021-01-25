@@ -2,9 +2,6 @@
 
 ## For loop syntax
 
-`for(variable; condition; steps) { <br/>
-    your code block here
-};`
 
 ## While loop syntax
 **let variableName = 0**
