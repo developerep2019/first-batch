@@ -2,6 +2,14 @@
 
 ## For loop syntax
 
+```javascript
+
+    for(let i = 0; i < 100; i++) {
+        document.write(i)
+    }
+
+
+```
 
 ## While loop syntax
 **let variableName = 0**
