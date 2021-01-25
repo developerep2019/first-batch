@@ -27,6 +27,19 @@ while(/*condition*/ variableName < 100) {
 
     variableName++
 }
+```
+
+## Do-while loop syntax 
+
+```javascript
+
+let variableName = 0;
+do {
+    //your code block here
+    variableName++
+}
+while(condition)
+
 
 
 ```

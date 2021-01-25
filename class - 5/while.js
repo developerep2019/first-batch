@@ -7,8 +7,8 @@
 //     document.write('I love my company');
 // };
 
-let i = 0;
-while(i < 1000) {
-    document.write('I love my company from while <br>')
-    i++;
-}
+// let i = 0;
+// while(i < 1000) {
+//     document.write('I love my company from while <br>')
+//     i++;
+// }
