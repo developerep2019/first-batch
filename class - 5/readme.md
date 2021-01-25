@@ -1,6 +1,6 @@
 //For loop syntax : 
 
-for(variable; condition; steps) {
+for(variable; condition; steps) { >
     // your code block here
 }
 
