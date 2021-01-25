@@ -1,6 +1,7 @@
 # In class 5 we have discuss about for, while & do-while loops of javascript
+## <span style="color : red">In real life projects, you will use 'for' & 'while' loop the most</span>
 
-## For loop syntax
+### For loop syntax
 
 ##### in general you should write variableName = i
 
@@ -12,7 +13,7 @@ for ( /* variable; condition;; step;*/ let variableName = 0; variableName < 100;
 }
 ```
 
-## While loop syntax
+### While loop syntax
 
 ``` javascript
 let variableName = 0;
@@ -25,7 +26,7 @@ while ( /*condition*/ variableName < 100) {
 }
 ```
 
-## Do-while loop syntax 
+### Do-while loop syntax 
 
 ``` javascript
 let variableName = 0;
