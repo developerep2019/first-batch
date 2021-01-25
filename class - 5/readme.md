@@ -4,8 +4,8 @@
 
 ```javascript
 
-    for(let i = 0; i < 100; i++) {
-        document.write(i)
+    for(/* variable; condition;; step; */) {
+        //your code block here
     }
 
 
