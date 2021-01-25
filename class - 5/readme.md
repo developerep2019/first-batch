@@ -10,6 +10,7 @@
 **let variableName = 0**
 
 `while(condition) {
+    hello world
     your code block here
     variableName++
 };`
