@@ -8,17 +8,9 @@ for(variable; condition; steps) { <br/>
     <br/>
     <br/>
 };
-
-
-
-
-
-
-
-
 ## While loop syntax
 <br/>
-let variableName = 0;
+**let variableName = 0**
 <br/>
 while(condition) {
     <br/>
